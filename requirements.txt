@@ -1,0 +1,4 @@
+pymycobot==3.6.8
+pyserial
+opencv-contrib-python==4.5.5.62
+opencv-python==4.5.5.62
